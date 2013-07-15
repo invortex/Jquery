@@ -34,7 +34,7 @@
 .fancybox-nav:hover span 		{ visibility: visible; }
 .fancybox-tmp 				{ position: absolute; top: -99999px; left: -99999px; visibility: hidden; max-width: 99999px; max-height: 99999px; overflow: visible !important; }
 
-/* Overlay helper */
+/*= Overlay helper =*/
 
 .fancybox-lock 	   { overflow: hidden; }
 
