@@ -11,7 +11,6 @@
 
 ;(function ($) {
 
-  //FlexSlider: Object Instance
   $.flexslider = function(el, options) {
     var slider = $(el),
         vars = $.extend({}, $.flexslider.defaults, options),
